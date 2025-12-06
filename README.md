@@ -1,0 +1,2 @@
+# Credit-Risk-Scoring-Expected-Loss-Modelling-Auto-Sector-
+Developed a credit scoring system for 10 auto-sector companies using financial ratios across liquidity, leverage, profitability, and efficiency. Built a weighted scoring model to assign credit ratings  and calculated Probability of Default (PD) and Expected Loss. Conducted scenario analysis to evaluate rating changes under stress conditions.
